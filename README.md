@@ -63,18 +63,6 @@ Additionally, iCADMac integrates with **cloud storage**, allowing remote access 
 
 ---
 
-## System Requirements  
-
-| Component | Minimum Specifications |
-|------------|------------------------|
-| **OS** | macOS 10.14 or newer |
-| **Processor** | Apple Silicon (M1/M2/M3) or Intel |
-| **Memory** | Minimum 4 GB RAM (8 GB recommended) |
-| **Storage** | 2 GB free disk space |
-| **Display** | 1280×800 or higher resolution |
-
----
-
 ## Tags  
 
 icadmac, icad mac, icad for mac, icadmac 2021, icadmac download, icadmac install macos, icadmac download mac, 2d drafting software, 3d cad design mac, dwg compatible cad, autocad mac alternative, architectural drawing software, mechanical design cad, 3d rendering mac, engineering design mac, cad productivity tools, technical drawing mac  
